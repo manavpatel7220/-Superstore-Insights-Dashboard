@@ -24,6 +24,6 @@
 - <a href="https://github.com/manavpatel7220/-Superstore-Insights-Dashboard/blob/main/Sample%20-%20Superstore.xlsx">Dataset</a>
 
 # Dashboard:
-
+-- <a href="https://github.com/manavpatel7220/-Superstore-Insights-Dashboard/blob/main/power%20bi%20project.pbix">View Dashboard</a>
 
 
