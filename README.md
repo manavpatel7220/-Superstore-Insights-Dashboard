@@ -21,6 +21,9 @@
 5.Operational Metrics: Tracked order fulfillment and return rates
 
 # Dataset Covered:
-- <a href=>Dataset</a>
+- <a href="https://github.com/manavpatel7220/-Superstore-Insights-Dashboard/blob/main/Sample%20-%20Superstore.xlsx">Dataset</a>
+
+# Dashboard:
+
 
 
